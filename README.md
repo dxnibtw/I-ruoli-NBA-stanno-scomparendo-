@@ -1,2 +1,2 @@
-I ruoli NBA stanno scomparendo?
+# I ruoli NBA stanno scomparendo?
 Questo progetto utilizza metodi di clustering e classificazione per studiare l’evoluzione dei ruoli dei giocatori NBA tra il 2015 e il 2025. Analizzando dataset di statistiche individuali per ciascun giocatore nelle due stagioni, il lavoro mira a identificare pattern ricorrenti nelle prestazioni e a confrontarne la struttura nel tempo, al fine di comprendere come il concetto di ruolo stia cambiando nel basket moderno.
